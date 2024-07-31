@@ -1,0 +1,5 @@
+mumbai,surat,bharuch,vadodara,ahmedabad,gandhinagar,abu road,ajmer,jaipur,gurgaon,delhi,Gareebrath Express,12216
+delhi,kanpur,prayagraj,pt. dd upadhyaya junc.,patna,jasidih,madhupur,bardhaman,howrah,Rajdhani Express,12302
+surat,vasai road,kalyan,pune,sangli,miraj,belagavi,hubballi,devangere,bangalore,Humsafar Express,22497
+chennai,vijaywada,samalkot,visakhapatnam,palasa,ichchapuram,balugaon,bhubaneswar,kharagpur,howrah,Double Decker Express,22625
+valsad,navsari,surat,kosamba,ankleshwar,bharuch,vadodara,anand,nadiad,ahmedabad,gandhinagar,Intercity Express,20959
